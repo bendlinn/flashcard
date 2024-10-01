@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+  --text-color: #ffffff;
+  --card-front-color: #51BBA9;
+  --card-back-color: #51BBA9;
+}
+
+body {
+  background: url(img/bg-desktop-blue.webp);
+  font-family: Grandstander;
+}
+.cartao__conteudo {
+    background-color: var(--card-front-color);
+    text-align: center;
+    height: 100%;
+  }
