@@ -61,12 +61,12 @@ body {
       }
     }
 
-    .cartao__conteudo h3 {
+    .cartao__conteudo h3{
       backface-visibility: hidden;
     }
 
     .cartao__conteudo__frente,
-    .cartao__conteudo__verso {
+    .cartao__conteudo__verso{
       backface-visibility: hidden;
     }
 
