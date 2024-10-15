@@ -55,8 +55,7 @@ body {
   color: var(--text-color);
   font-weight: 700;
 }
-  .cartao__conteudo__pergunta,
-  .cartao__conteudo__resposta {
+  .cartao__conteudo__pergunta, .cartao__conteudo__resposta {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
