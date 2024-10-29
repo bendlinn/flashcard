@@ -4,11 +4,12 @@ criaCartao(
     'x=5.'
 )
 criaCartao(
-    'Português'
-    'O que é um ditongo?'
-    'São palavras que possuem duas vogais juntas.'
+    'Português',
+    'O que é um ditongo?',
+    'São palavras que possuem duas vogais juntas.',
 )
-criaCartao( 
+criaCartao(
     'Biologia'
-    'Se o homem evoluiu do macaco, porque ainda existem macacos?'
+    'Se o homem evoluiu do macaco, porque ainda existem macacos?',
+    'Pois eles possuem um ancestral comum, por isso ainda existem macacos.',
 )
